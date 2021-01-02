@@ -1,6 +1,6 @@
 galaxy_info:
   author: Supachai Jaturaprom
-  description: Solution Consulting
+  description: This is role installation for mysql database
   company: your company (optional)
 
   # If the issue tracker for your role is not on github, uncomment the
